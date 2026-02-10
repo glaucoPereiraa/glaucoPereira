@@ -27,52 +27,50 @@
 
 ## 🎮 S.P.E.C.I.A.L.
 
-<div style="justify-content: center;display: flex;>
-    <table>
-        <tr>
-        <td align="center">
-            <img src="https://static.wikia.nocookie.net/fallout/images/3/3e/Fo4strengthbobblehead.png" width="200"/><br/>
-            <b>Strength</b><br/>Arquitetura & Backend
-        </td>
-        <td align="center">
-            <img src="https://static.wikia.nocookie.net/fallout/images/e/e5/Perception_bobblehead.png" width="200"/><br/>
-            <b>Perception</b><br/>Observabilidade & Debug
-        </td>
-        <td align="center">
-            <img src="https://static.wikia.nocookie.net/fallout/images/8/8b/Fo4_endurance_bobblehead.png" width="200"/><br/>
-            <b>Endurance</b><br/>Sistemas críticos em produção
-        </td>
-        </tr>
-        <tr>
-        <td align="center">
-            <img src="https://static.wikia.nocookie.net/fallout/images/3/3f/FO4charismabobblehead.png" width="200"/><br/>
-            <b>Charisma</b><br/>Tech Leadership & Colaboração
-        </td>
-        <td align="center">
-            <img src="https://static.wikia.nocookie.net/fallout/images/1/17/Intelligence_bobblehead.png" width="200"/><br/>
-            <b>Intelligence</b><br/>Sistemas distribuídos & arquitetura
-        </td>
-        <td align="center">
-            <img src="https://static.wikia.nocookie.net/fallout/images/3/3b/Fo4_agility_bobblehead.png" width="200"/><br/>
-            <b>Agility</b><br/>Entregas rápidas & pragmatismo
-        </td>
-        </tr>
-        <tr>
-        <td align="center">
-            <img src="https://static.wikia.nocookie.net/fallout/images/6/63/Luck_bobblehead.png" width="200"/><br/>
-            <b>Luck</b><br/>Hotfix em produção 😅
-        </td>
-        <td align="center">
-            <img src="https://static.wikia.nocookie.net/fallout/images/d/d3/Science_Bobblehead.png" width="200"/><br/>
-        <b>Science</b><br/>Mensageria, dados & performance
-        </td>
-        <td align="center">
-            <img src="https://static.wikia.nocookie.net/fallout/images/8/8e/Sneak_Bobblehead_model_FO4.png" width="200"/><br/>
-            <b>Sneak</b><br/>Debug silencioso em produção
-        </td>
-        </tr>
-    </table>
-</div>
+<table>
+<tr>
+<td align="center">
+<img src="https://static.wikia.nocookie.net/fallout/images/3/3e/Fo4strengthbobblehead.png" width="200"/><br/>
+<b>Strength</b><br/>Arquitetura & Backend
+</td>
+<td align="center">
+<img src="https://static.wikia.nocookie.net/fallout/images/e/e5/Perception_bobblehead.png" width="200"/><br/>
+<b>Perception</b><br/>Observabilidade & Debug
+</td>
+<td align="center">
+<img src="https://static.wikia.nocookie.net/fallout/images/8/8b/Fo4_endurance_bobblehead.png" width="200"/><br/>
+<b>Endurance</b><br/>Sistemas críticos em produção
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://static.wikia.nocookie.net/fallout/images/3/3f/FO4charismabobblehead.png" width="200"/><br/>
+<b>Charisma</b><br/>Tech Leadership & Colaboração
+</td>
+<td align="center">
+<img src="https://static.wikia.nocookie.net/fallout/images/1/17/Intelligence_bobblehead.png" width="200"/><br/>
+<b>Intelligence</b><br/>Sistemas distribuídos & arquitetura
+</td>
+<td align="center">
+<img src="https://static.wikia.nocookie.net/fallout/images/3/3b/Fo4_agility_bobblehead.png" width="200"/><br/>
+<b>Agility</b><br/>Entregas rápidas & pragmatismo
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://static.wikia.nocookie.net/fallout/images/6/63/Luck_bobblehead.png" width="200"/><br/>
+<b>Luck</b><br/>Hotfix em produção 😅
+</td>
+<td align="center">
+<img src="https://static.wikia.nocookie.net/fallout/images/d/d3/Science_Bobblehead.png" width="200"/><br/>
+<b>Science</b><br/>Mensageria, dados & performance
+</td>
+<td align="center">
+<img src="https://static.wikia.nocookie.net/fallout/images/8/8e/Sneak_Bobblehead_model_FO4.png" width="200"/><br/>
+<b>Sneak</b><br/>Debug silencioso em produção
+</td>
+</tr>
+</table>
 
 ---
 
@@ -89,7 +87,7 @@
 
 ## 📫 Contato
 
-* 💼 LinkedIn: *(adicione aqui)*
+* 💼 LinkedIn: [Glauco Pereira](https://www.linkedin.com/in/glauco-pereira-73311729b/)
 * 📧 Email: [glauco.contato.pereira@gmail.com](mailto:glauco.contato.pereira@gmail.com)
 
 ---
