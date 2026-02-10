@@ -27,6 +27,8 @@
 
 ## 🎮 S.P.E.C.I.A.L.
 
+<div align="center">
+
 <table>
 <tr>
 <td align="center">
@@ -71,6 +73,8 @@
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
